@@ -1,0 +1,22 @@
+nav
+{
+	display:inline-block;
+	border:5px black solid;
+	height:235px;
+	width:10%;
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	left:5px;
+	top:5px
+}
+
+.menu
+{
+	width:100%;
+	height:35px;
+	text-align:center;
+	border-bottom:5px black solid;
+	padding:0px;
+	margin:0px;
+}

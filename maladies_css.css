@@ -1,0 +1,133 @@
+@font-face {
+    font-family: 'anudawregular';
+    src: url('ANUDRG__-webfont.eot');
+    src: url('ANUDRG__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ANUDRG__-webfont.woff') format('woff'),
+         url('ANUDRG__-webfont.ttf') format('truetype'),
+         url('ANUDRG__-webfont.svg#anudawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+nav
+{
+	display:inline-block;
+	border:5px black solid;
+	height:275px;
+	width:15%;
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	left:5px;
+	top:5px;
+	background-color : white;
+}
+
+.menu
+{
+	width:100%;
+	height:35px;
+	text-align:center;
+	border-bottom:5px black solid;
+	padding:0px;
+	margin:0px;
+	font-family : "anudawregular";
+	color : blue;
+}
+
+p[class*="menu"]
+{
+	width:100%;
+	height:35px;
+	text-align:center;
+	border-bottom:5px black solid;
+	padding:0px;
+	margin:0px;
+}
+
+.n2
+{
+	position : aboslute;
+	left : 210px;
+	bottom : 5 px;
+	display : none;
+}
+
+p[class="menu1"]:hover 
+{
+.n2
+{
+	display : 
+}
+}
+
+body{
+background-image:url("images/radioprotection/fond.jpg");
+height:100%;
+width:100%;
+}
+
+.tout
+{
+width:75%;
+margin: auto;
+background-color: white;
+height : 100%;
+}
+
+
+h1
+{
+color : red;
+padding-left : 15%;
+text-decoration: underline;
+clear : both;
+}
+
+h2
+{
+color : green;
+padding-left : 20%;
+text-decoration: underline;
+clear : both;
+}
+
+.floatleft
+{
+	float: left;
+}
+
+.floatright
+{
+	float: right;
+}
+
+figure
+{
+padding-left: 25%;
+}
+
+figcaption
+{
+color : #0070c0;
+size : 0.8 em;
+text-decoration : underline;
+}
+
+.justegauche
+{
+	clear : right;
+}
+
+strong
+{
+text-decoration : underline;
+font-weight : normal;
+}
+
+video
+{
+display : inline-block;
+margin : 12%;
+}
