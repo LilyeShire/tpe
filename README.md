@@ -1,5 +1,5 @@
 # tpe
-Site Internet réalisé pour la présentation orale de mon TIPE. Présente d'importants dysfonctionnements graphiques.
+Site Internet réalisé pour la présentation orale de mon TPE. Présente d'importants dysfonctionnements graphiques.
 
 Ce site ne devait en effet que servir de support pour une présentation orale avec Internet Explorer (je ne me souviens malheureusement plus de la version, mais c'était en avril 2014) sur un écran dont je connaissais les dimensions. Je n'ai pas travaillé du tout sur sa portabilité. 
 
